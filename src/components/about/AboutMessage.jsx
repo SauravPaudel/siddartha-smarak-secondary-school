@@ -19,13 +19,13 @@ const AboutMessage = () => {
                         <div>Once the application forms are completed, along with any required documentation, they can be submitted to the admissions office either in person or electronically. Our admissions team carefully reviews each application, considering factors such as academic achievement, extracurricular involvement, and character.</div>
                         <div className='font-merriwether'>
                             <img className='flex w-1/4 ml-[-10px]' src={signature} alt="" />
-                            <p>Eminem Gojarwati,</p>
-                            <p>The Principal,</p>
+                            <p>Dilaram Paudel,</p>
+                            <p>Principal,</p>
                             <p>Siddhartha Smarak Secondary School</p>
                         </div>
                     </div>
                     <div className='flex order-1 w-full h-full mb-8 shadow-lg md:order-2 md:mb-0' >
-                        <img src='https://source.unsplash.com/random/?white_man' className='object-cover object-center border-b-8 brightness-[.6] duration-300 hover:brightness-75 saturate-50 hover:saturate-100 border-r-8 border-sky-800 rounded-xl' alt="Image of the Principal" />
+                        <img src='https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fi.ibb.co%2FThs5Y4r%2FDilaram-Paudel.jpg' className='object-cover object-center border-b-8 duration-300 hover:brightness-75 saturate-100 hover:saturate-100 border-r-8 border-sky-800 rounded-xl' alt="Image of the Principal" />
                     </div>
                 </div>
             </div>
