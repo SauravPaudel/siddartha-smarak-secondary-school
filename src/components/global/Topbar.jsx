@@ -19,10 +19,11 @@ const Topbar = () => {
             </div> */}
             <marquee>
                 <ul className="flex gap-8 list-disc">
-                    <li>Results upcoming: 18th May 2024, Please prepare for it</li>
-                    <li>Annual day coming soon, interested students for performances and any other may contact program head</li>
-                    <li>In light of passing of Aadarsha Bhotel, we will conduct 5 minutes of silence in assembly hall</li>
-                    <li>Classse in 14th May 2024 are cancelled due to storm</li>
+                    <li>बुद्धभूमि नगरपालिका वडा नं. १, भेलाईमा अवस्थित सिद्धार्थ स्मारक माध्यमिक विद्यालयमा शान्त, शैक्षिक, मनोरम वातावरणमा साधारण तर्फ र विशेष शिक्षा अन्तर्गत छात्रावाससहित दृष्ट्रिविहीन स्रोतकक्षासमेत संचालनमा रहेको छ ।</li>
+                    <li>विक्रम सम्वत २०१८ सालमा स्थापना भएको यस क्षेत्रके सबैभन्दा पुरानो पूर्ण सरकारी अनुदान प्राप्त विद्यालयमा बालबिकाशका कक्षा देखि कक्षा १२ सम्म नेपाली र अंग्रेजी दुवै माध्यममा सिकाइ हुदै आएको छ ।</li>
+                    <li>बुद्धभूमि नगरपालिका वडा नं. १, भेलाईमा अवस्थित सिद्धार्थ स्मारक माध्यमिक विद्यालयमा शान्त, शैक्षिक, मनोरम वातावरणमा साधारण तर्फ र विशेष शिक्षा अन्तर्गत छात्रावाससहित दृष्ट्रिविहीन स्रोतकक्षासमेत संचालनमा रहेको छ ।</li>
+                    
+                    
                 </ul>
             </marquee>
         </div>

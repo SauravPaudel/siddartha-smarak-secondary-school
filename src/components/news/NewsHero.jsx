@@ -19,21 +19,16 @@ export default NewsHero
 
 const notices = [
     {
-        title: 'Hey Jude'
+        title: 'Admission Open'
     },
     {
-        title: 'Dont make it bad'
+        title: 'Class 9 Result'
     },
     {
-        title: 'Take a sa dsong'
+        title: 'Sport Day Notice'
     },
     {
-        title: 'And make it better'
-    },
-    {
-        title: 'Remember, to let it into'
-    },
-    {
-        title: 'Hey Jude'
-    },
+        title: 'Friday Extra Curriculum'
+    }
+   
 ]

@@ -12,7 +12,7 @@ const MainHero = () => {
                 </div>
                 <div className='flex flex-col w-full text-base/[250%] text-stone-700 tracking-wide text-justify font-manrope'>
                     <div className='w-full pb-2 text-2xl font-bold text-center uppercase border-b-2 md:text-start md:w-auto text-sky-900 border-stone-200 font-merriwether'>Siddartha Smarak Secondary School</div>
-                    <div className='pt-4 '>Where Excellence meets Opportunity, our institution stands as a beacon of academic achievement and holistic growth.</div>
+                    <div className='pt-4 '>बुद्धभूमि नगरपालिका वडा नं. १, भेलाईमा अवस्थित सिद्धार्थ स्मारक माध्यमिक विद्यालयमा शान्त, शैक्षिक, मनोरम वातावरणमा साधारण तर्फ र विशेष शिक्षा अन्तर्गत छात्रावाससहित दृष्ट्रिविहीन स्रोतकक्षासमेत संचालनमा रहेको छ ।</div>
                     <div className='pt-4'>Housing a vibrant community of over 600 students, Siddhartha Smarak Secondary School offers state-of-the-art facilities and resources conducive to learning.</div>
                     <div className='pt-4'>With a dedicated faculty and a nurturing environment, we strive to empower every student to reach their full potential.</div>
                     <div className='pt-4'>Join us at Siddhartha Smarak Secondary School and embark on a journey of academic excellence and personal growth.</div>
